@@ -9,6 +9,12 @@ This project is a web scraper built using [Playwright](https://playwright.dev/) 
 - Uses Playwright's Firefox browser automation.
 - Custom user-agent for improved anonymity.
 
+  This is how the extracted data will look like:
+  ![Extracted Json Data](https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20191732.png)
+
+  This is a screenshot from while the script was running:
+  ![Script running in browser](https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20191732.png)
+
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
