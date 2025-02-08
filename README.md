@@ -11,12 +11,9 @@ This project is a web scraper built using [Playwright](https://playwright.dev/) 
 
   This is how the extracted data will look like:
   <br>
-  <img src="https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20191732.png" alt="Extracted JSON Data" height="200">
+  <img src="https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20191732.png" alt="Extracted JSON Data" height="300">
 
-  This is a screenshot from while the script was running:
-  <br>
-  <img src="https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20192157.png" alt="Script running in browser" width="400">
-
+  
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
