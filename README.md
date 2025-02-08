@@ -10,10 +10,10 @@ This project is a web scraper built using [Playwright](https://playwright.dev/) 
 - Custom user-agent for improved anonymity.
 
   This is how the extracted data will look like:
-  ![Extracted Json Data](https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20191732.png)
+  <img src="https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20191732.png" alt="Extracted JSON Data" height="200">
 
   This is a screenshot from while the script was running:
-  ![Script running in browser](https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20191732.png)
+  <img src="https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20192157.png" alt="Script running in browser" height="200">
 
 ## Installation
 ### Prerequisites
