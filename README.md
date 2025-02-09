@@ -23,7 +23,7 @@ Ensure you have the following installed:
 ### Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/yelp-scraper.git
+   git clone https://github.com/roshaanmehar/yelpscraper.git
    cd yelp-scraper
    ```
 2. Install dependencies:
@@ -42,6 +42,12 @@ node index.js
 ```
 This will launch a Firefox browser, navigate to Yelp, scrape the data, and print it in the console.
 
+
+## This is what the website looks like:
+<div>
+  <img src="https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20235050.png" width="500">
+  <img src="https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20235035.png" width="500">
+</div>
 ## Configuration
 You can modify the script to change:
 - **Search Query & Location**: Modify the `page.goto` URL parameters.
