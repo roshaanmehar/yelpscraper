@@ -48,6 +48,8 @@ This will launch a Firefox browser, navigate to Yelp, scrape the data, and print
   <img src="https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20235050.png" width="500">
   <img src="https://github.com/roshaanmehar/yelpscraper/blob/main/Screenshot%202025-02-08%20235035.png" width="500">
 </div>
+
+
 ## Configuration
 You can modify the script to change:
 - **Search Query & Location**: Modify the `page.goto` URL parameters.
